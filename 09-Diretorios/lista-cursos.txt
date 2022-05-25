@@ -1,0 +1,5 @@
+Symfony Parte 1: Criação de uma API restful
+Symfony Parte 2: Atenticação e HATEOAS
+PHP Doctrine: Introdução ao Mapeamento Obejto-Relacional
+PHP Composer: Dependências, Autoload e Publicação
+PHP e TDD: Teste com PHP Unit

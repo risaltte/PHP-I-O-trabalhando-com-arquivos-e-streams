@@ -1,0 +1,9 @@
+version: '3.1'
+
+services:
+  php-apache:
+    image: webdevops/php-apache-dev:8.1
+    volumes:
+      - ".:/app"
+    ports:
+      - 9000:80
